@@ -17,3 +17,8 @@ use UX(ux.v0) and develop html page
  npm run tests
  how to run lint rules
  npm run lint
+
+
+ ## Usefull shortcuts
+ controll + ~ => terminal
+ controll + P => open file search
